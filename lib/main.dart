@@ -80,10 +80,6 @@ class _MyHomePageState extends State<MyHomePage> {
   @override
   Widget build(BuildContext context) {
 
-    // widget.channel.stream.listen((e) {
-    //   print('listen $e');
-    //   // widget.channel.sink.close(status.goingAway);
-    // });
     // This method is rerun every time setState is called, for instance as done
     // by the _toggleState method above.
     //
